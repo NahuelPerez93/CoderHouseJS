@@ -1,7 +1,6 @@
-
 document.addEventListener("DOMContentLoaded", function() {
-  var loggedIn = localStorage.getItem("loggedIn");
-  if (loggedIn === "true") {
+    var loggedIn = localStorage.getItem("loggedIn");
+    if (loggedIn === "true") {
     var loginDiv = document.getElementById("loginDiv");
     var adminDiv = document.getElementById("adminDiv");
     if (loginDiv) {
