@@ -1,0 +1,13 @@
+{
+    "bebidas": [
+        {"nombre": "Quilmes", "precio": 100},
+        {"nombre": "Patagonia", "precio": 120},
+        {"nombre": "Brahma", "precio": 90},
+        {"nombre": "Malbec", "precio": 200},
+        {"nombre": "Cabernet Sauvignon", "precio": 250},
+        {"nombre": "Torrontés", "precio": 180},
+        {"nombre": "Coca-Cola", "precio": 70},
+        {"nombre": "Sprite", "precio": 60},
+        {"nombre": "Fanta", "precio": 65}
+    ]
+  }
