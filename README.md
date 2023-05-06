@@ -1,6 +1,1 @@
-RESPECTO AL LA ENTREGA ANTERIOR TOME EN CUENTA ALGUNOS CONSEJOS.
-CREE UN USUARIO Y CONTRASEÑA  ("admin" para ambos cosas es la forma de entrar)
-EL ADMINISTRADOR AGREGA BEBIDAS Y PRECIOS  Y LIMPIA LA LISTA.
-LUEGO TODO SE MUESTRA EN EL INDEX.HTML DONDE A FUTURO INCLUIRA BOTONERS DE COMPRA Y CARRITO
-ALMACENA EN LOCALSOTRAGE 
-pd:el css hice algo sencillo que no es lo que pienso usar para el proyecto final aclaro por las dudas jajaja
+el css hice algo sencillo no es lo mios la visual por algo segui back jaja. Me falto por coregir algunas cosas que me hubieran gustado que se muestren de otroa forma como cuando agrego bebidas en modo admin aparezcan al apretar el respecitvo filtro. la cabeza ya no me da mas. 
